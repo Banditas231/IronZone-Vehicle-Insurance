@@ -1,0 +1,47 @@
+{
+  "ConfigVersion": 22,
+  "ID": 921,
+  "Type": 1,
+  "Title": "Vehicle insurance — claim",
+  "Descriptions": [
+    "If your insured vehicle is gone (despawn / wipe / deleted), claim a soft replacement here.",
+    "PLACEHOLDER",
+    "Free claim (no fee). Denied if your insured vehicle still exists."
+  ],
+  "ObjectiveText": "Claim soft vehicle recovery at Peter (only if insured vehicle no longer exists).",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 1,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [],
+  "NeedToSelectReward": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "QuestGiverIDs": [1],
+  "QuestTurnInIDs": [1],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 21,
+      "ObjectiveType": 3
+    }
+  ],
+  "QuestColor": -4179669,
+  "ReputationReward": 0,
+  "ReputationRequirement": 0,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}
