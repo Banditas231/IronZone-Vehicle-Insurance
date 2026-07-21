@@ -4,6 +4,17 @@ Server-side **soft vehicle insurance** for DayZ servers using **DayZ Expansion Q
 
 Claim recovers the same vehicle type and mechanical parts only — **no cargo**.
 
+## Get the mod
+
+| What | Where |
+|------|--------|
+| **Mod (PBO) — subscribe / download** | **[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3768859014)** |
+| **Quest JSON examples** | This repo → folder [`quest_examples/`](quest_examples/) |
+| **Docs & license** | This repo → `README.md`, `LICENSE` |
+
+- **Server hosts:** subscribe on Steam Workshop, add the mod to **`-serverMod=`** (clients do not need it).
+- **This GitHub repo does not contain the compiled PBO** — only documentation and quest profile examples.
+
 ## Requirements
 
 - Community Framework (CF)
