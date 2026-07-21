@@ -1,1 +1,61 @@
-{   "ConfigVersion":22,   "ID":920,   "Type":1,   "Title":"Vehicle insurance — register",   "Descriptions":[      "Bring your vehicle within 150 m. Soft insurance: same type + parts, no cargo.",      "PLACEHOLDER",      "Price is a % of the Expansion Market buy price (set in IronZone_Insurance config). Paid at turn-in by the mod."   ],   "ObjectiveText":"Insure the nearest vehicle at Peter (150 m). Cost = % of market buy price (config). Soft recovery only — no inventory.",   "FollowUpQuest":-1,   "Repeatable":1,   "IsDailyQuest":0,   "IsWeeklyQuest":0,   "CancelQuestOnPlayerDeath":0,   "Autocomplete":1,   "IsGroupQuest":0,   "ObjectSetFileName":"",   "QuestItems":[         ],   "Rewards":[         ],   "NeedToSelectReward":0,   "RewardsForGroupOwnerOnly":1,   "QuestGiverIDs":[      1   ],   "QuestTurnInIDs":[      1   ],   "IsAchievement":0,   "Objectives":[      {         "ConfigVersion":28,         "ID":20,         "ObjectiveType":3      }   ],   "QuestColor":-4179669,   "ReputationReward":0,   "ReputationRequirement":0,   "PreQuestIDs":[         ],   "RequiredFaction":"",   "FactionReward":"",   "PlayerNeedQuestItems":1,   "DeleteQuestItems":1,   "SequentialObjectives":0,   "FactionReputationRequirements":{         },   "FactionReputationRewards":{         },   "SuppressQuestLogOnCompetion":0,   "Active":1}
+{
+   "ConfigVersion":22,
+   "ID":920,
+   "Type":1,
+   "Title":"Vehicle insurance — register",
+   "Descriptions":[
+      "Bring your vehicle within 150 m. Soft insurance: same type + parts, no cargo.",
+      "PLACEHOLDER",
+      "Price is a % of the Expansion Market buy price (set in IronZone_Insurance config). Paid at turn-in by the mod."
+   ],
+   "ObjectiveText":"Insure the nearest vehicle at Peter (150 m). Cost = % of market buy price (config). Soft recovery only — no inventory.",
+   "FollowUpQuest":-1,
+   "Repeatable":1,
+   "IsDailyQuest":0,
+   "IsWeeklyQuest":0,
+   "CancelQuestOnPlayerDeath":0,
+   "Autocomplete":1,
+   "IsGroupQuest":0,
+   "ObjectSetFileName":"",
+   "QuestItems":[
+      
+   ],
+   "Rewards":[
+      
+   ],
+   "NeedToSelectReward":0,
+   "RewardsForGroupOwnerOnly":1,
+   "QuestGiverIDs":[
+      1
+   ],
+   "QuestTurnInIDs":[
+      1
+   ],
+   "IsAchievement":0,
+   "Objectives":[
+      {
+         "ConfigVersion":28,
+         "ID":20,
+         "ObjectiveType":3
+      }
+   ],
+   "QuestColor":-4179669,
+   "ReputationReward":0,
+   "ReputationRequirement":0,
+   "PreQuestIDs":[
+      
+   ],
+   "RequiredFaction":"",
+   "FactionReward":"",
+   "PlayerNeedQuestItems":1,
+   "DeleteQuestItems":1,
+   "SequentialObjectives":0,
+   "FactionReputationRequirements":{
+      
+   },
+   "FactionReputationRewards":{
+      
+   },
+   "SuppressQuestLogOnCompetion":0,
+   "Active":1
+}
